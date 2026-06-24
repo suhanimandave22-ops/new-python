@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "divide by3 and 7 using for", "divide by3 and 7 using for\divide by3 and 7 using for.pyproj", "{89D5EF99-3F78-4B57-9AAF-6417C8CBBA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D5EF99-3F78-4B57-9AAF-6417C8CBBA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D5EF99-3F78-4B57-9AAF-6417C8CBBA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176C56F2-034C-4F58-BD9F-AA6C649BE755}
+	EndGlobalSection
+EndGlobal

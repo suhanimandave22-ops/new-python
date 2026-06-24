@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "starHW", "starHW\starHW.pyproj", "{4C3D2B5B-763F-487D-B14C-E2DCD9792447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C3D2B5B-763F-487D-B14C-E2DCD9792447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3D2B5B-763F-487D-B14C-E2DCD9792447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA106A3B-AE97-4F13-95D3-14C1EE26EA73}
+	EndGlobalSection
+EndGlobal
